@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @madametussaud
+- 👀 I’m interested in world affairs
+- 🌱 I’m currently learning dAA
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me ? call me haha
+- 😄 Pronouns: i don't do gen z shit 
+- ⚡ Fun fact: i love people
