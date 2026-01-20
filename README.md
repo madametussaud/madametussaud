@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @madametussaud
-- 👀 I’m interested in world affairs
-- 🌱 I’m currently learning dAA
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ? call me haha
-- 😄 Pronouns: i don't do gen z shit 
-- ⚡ Fun fact: i love people
+- 👋 Hi, I’m Mitali (@madametussaud)
+- 👀 I’m interested in solving real-world and novel problems using technology
+- 🌱 I’m currently learning Computer Science (BTech CSE specializing in (AI & ML))
+- 💞️ I’m looking to collaborate on open-source and learning-focused projects
+- 📫 How to reach me ? chocolatemousse2004@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy understanding people as much as I enjoy solving problems
