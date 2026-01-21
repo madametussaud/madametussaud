@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mitali (@madametussaud)
+- 👋 Hi, I’m Mitali Vaibhav (@madametussaud)
 - 👀 I’m interested in solving real-world and novel problems using technology
 - 🌱 I’m currently learning Computer Science (BTech CSE specializing in (AI & ML))
 - 💞️ I’m looking to collaborate on open-source and learning-focused projects
