@@ -2,6 +2,6 @@
 - 👀 I’m interested in solving real-world and novel problems using technology
 - 🌱 I’m currently learning Computer Science (BTech CSE specializing in (AI & ML))
 - 💞️ I’m looking to collaborate on open-source and learning-focused projects
-- 📫 How to reach me ? chocolatemousse2004@gmail.com
+- 📫 How to reach me ? chocolatemousse2004@gmail.com or mitali.vaibhav@s.amity.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy understanding people as much as I enjoy solving problems
